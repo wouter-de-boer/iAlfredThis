@@ -33,7 +33,7 @@
 	<key>silent</key>
 	<true/>
 	<key>subtitle</key>
-	<string>This will be added to you're iDoneThis log of today.</string>
+	<string>This will be added to your iDoneThis log for today.</string>
 	<key>title</key>
 	<string>What did you finish?</string>
 </dict>

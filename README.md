@@ -1,0 +1,1 @@
+[Explanation, documentation, and installation instructions on my blog.](http://devblog.springest.com/alfred-app-idonethis-for-logging-your-todos-gtd-style)
